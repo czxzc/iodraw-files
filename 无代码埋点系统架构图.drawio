@@ -25,13 +25,13 @@
         <mxCell id="4z941F-OSkqxANPZ7udz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VGJzJ55Yt3Gp-UUYRj1f-4" target="VGJzJ55Yt3Gp-UUYRj1f-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VGJzJ55Yt3Gp-UUYRj1f-4" value="埋点配置后管&lt;br&gt;zaip-coreweb-autoback-web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="VGJzJ55Yt3Gp-UUYRj1f-4" value="埋点配置后管&lt;br&gt;zaip-coreweb-autotrack-web" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry y="140" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VGJzJ55Yt3Gp-UUYRj1f-6" value="C端服务&lt;br&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;zaip-coreweb-autobackclient-service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="VGJzJ55Yt3Gp-UUYRj1f-6" value="C端服务&lt;br&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;zaip-coreweb-autotrackclient-service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-480" y="360" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VGJzJ55Yt3Gp-UUYRj1f-7" value="B端服务&lt;br style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;zaip-coreweb-autoback-service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="VGJzJ55Yt3Gp-UUYRj1f-7" value="B端服务&lt;br style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;zaip-coreweb-autotrack-service&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-120" y="360" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k4Nuz_xcB-CkwzQxemxn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VGJzJ55Yt3Gp-UUYRj1f-8" target="VGJzJ55Yt3Gp-UUYRj1f-38" edge="1">
